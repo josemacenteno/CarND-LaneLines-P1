@@ -51,3 +51,12 @@ The algorithms used also kind of rely on fixed parameters assuming brightness, c
 * Parameters could be calculated dinamically based on the image characteristics. For example a histogram could help better identify threshold values for the filters. 
 * Adding more advanced algorithms can help to identify lanes on challenging frames.
 * Preprocessing the image to make contrast more evenly distributed across frames might help
+
+
+###4. Results:
+White lanes:
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=RuXgtg9qRJE?v=YOUTUBE_VIDEO_ID_HERE)
+
+Yellow lane on left:
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=8_xE28lyCB8?v=YOUTUBE_VIDEO_ID_HERE)
+
