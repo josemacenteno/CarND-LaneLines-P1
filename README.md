@@ -58,5 +58,7 @@ White lanes video:
     !(https://www.youtube.com/watch?v=RuXgtg9qRJE?v=YOUTUBE_VIDEO_ID_HERE)
 
 Yellow lane on left video:
-!(https://www.youtube.com/watch?v=8_xE28lyCB8?v=YOUTUBE_VIDEO_ID_HERE)
+!(https://www.youtube.com/watch?v=8_xE28lyCB8)
+[![YELLOW LANE](http://img.youtube.com/vi/8_xE28lyCB8/0.jpg)](http://www.youtube.com/watch?v=8_xE28lyCB8)
+
 
