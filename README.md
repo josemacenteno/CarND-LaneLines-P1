@@ -67,6 +67,10 @@ White lanes video:
 
 Yellow lane on left video:
 
- [![YELLOW LANE](http://img.youtube.com/vi/8_xE28lyCB8/0.jpg)](http://www.youtube.com/watch?v=8_xE28lyCB8)
+ [![YELLOW LANE](http://img.youtube.com/vi/8_xE28lyCB8/0.jpg)](http://www.youtube.com/watch?v=8_xE28lyCB8
+ 
+ ## HTML notebook
+ 
+ My solution to this project is exported as HTML [here](https://github.com/josemacenteno/CarND-LaneLines-P1/blob/master/P1.html)
 
 
