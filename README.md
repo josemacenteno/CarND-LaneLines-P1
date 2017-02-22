@@ -61,10 +61,12 @@ The algorithms used also kind of rely on fixed parameters assuming brightness, c
 
 ###4. Results:
 White lanes video:
+
  [![WHITE LANE](http://img.youtube.com/vi/RuXgtg9qRJE/0.jpg)](http://www.youtube.com/watch?v=RuXgtg9qRJE)
 
 
 Yellow lane on left video:
+
  [![YELLOW LANE](http://img.youtube.com/vi/8_xE28lyCB8/0.jpg)](http://www.youtube.com/watch?v=8_xE28lyCB8)
 
 
